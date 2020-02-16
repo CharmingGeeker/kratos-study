@@ -1,4 +1,4 @@
-# kratos学习笔记六(kratos 服务发现 discovery)
+# kratos学习笔记(kratos 服务发现 discovery)
 
 除warden直连方式外，kratos有另一个服务发现sdk : [discovery](https://github.com/bilibili/discovery)
 
